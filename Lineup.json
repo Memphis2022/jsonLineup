@@ -1,0 +1,88 @@
+{
+"LineUp":[
+  {
+    "Rank": 1,
+    "TeamName": "Australia",
+    "Driver": "Slingsby",
+    "Points": 99,
+    "FlagName": "AUS_Flag"
+  },
+  {
+    "Rank": 2,
+    "TeamName": "New Zealand",
+    "Driver": "Burling",
+    "Points": 93,
+    "FlagName": "NZL_Flag"
+  },
+  {
+    "Rank": 3,
+    "TeamName": "Canada",
+    "Driver": "Scott",
+    "Points": 88,
+    "FlagName": "CAN_Flag"
+  },
+  {
+    "Rank": 4,
+    "TeamName": "France",
+    "Driver": "Delapierre",
+    "Points": 84,
+    "FlagName": "FRA_Flag"
+  },
+  {
+    "Rank": 5,
+    "TeamName": "Emirates GBR",
+    "Driver": "Fletcher",
+    "Points": 79,
+    "FlagName": "GBR_Flag"
+  },
+  {
+    "Rank": 6,
+    "TeamName": "ROCKWOOLD DEN",
+    "Driver": "Nicolai Sehested",
+    "Points": 75,
+    "FlagName": "DEN_Flag"
+  },
+  {
+    "Rank": 7,
+    "TeamName": "United States",
+    "Driver": "Canfield",
+    "Points": 71,
+    "FlagName": "USA_Flag"
+  },
+  {
+    "Rank": 8,
+    "TeamName": "Spain",
+    "Driver": "Botín",
+    "Points": 68,
+    "FlagName": "ESP_Flag"
+  },
+  {
+    "Rank": 9,
+    "TeamName": "GERMANY BY DEUTSCHE BANK",
+    "Driver": "Heil",
+    "Points": 65,
+    "FlagName": "GER_Flag"
+  },
+  {
+    "Rank": 10,
+    "TeamName": "Switzerland",
+    "Driver": "Schneiter",
+    "Points": 62,
+    "FlagName": "SUI_Flag"
+  },
+  {
+    "Rank": 11,
+    "TeamName": "Italy",
+    "Driver": "Tita",
+    "Points": 59,
+    "FlagName": "ITA_Flag"
+  },
+  {
+    "Rank": 12,
+    "TeamName": "Mubadala Brazil",
+    "Driver": "Grael",
+    "Points": 55,
+    "FlagName": "BRA_Flag"
+  }
+]
+}
